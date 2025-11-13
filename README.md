@@ -19,7 +19,6 @@ puis afficher différentes statistiques :
 <img width="1873" height="753" alt="image" src="https://github.com/user-attachments/assets/22c4746c-b098-484e-97eb-0bfd9fbe43dd" />
 
 <img width="834" height="425" alt="image" src="https://github.com/user-attachments/assets/2225919c-ddba-4924-9f98-318e63333e13" />
-<img width="1897" height="793" alt="image" src="https://github.com/user-attachments/assets/eee061f0-42c0-4e47-8e48-6ad7c4b9a6c8" />
 
 ## Exercice2-Gestion des Machines et Employés :
 ### Objectifs pédagogiques
@@ -40,3 +39,4 @@ Tester le tout via des classes main() claires et simples.
 
 <img width="815" height="227" alt="image" src="https://github.com/user-attachments/assets/282289df-0a9b-45c4-8e70-548c27700e1f" />
 <img width="841" height="213" alt="image" src="https://github.com/user-attachments/assets/a8897a7c-2e38-4f55-b2bd-96f2918401e2" />
+<img width="1897" height="793" alt="image" src="https://github.com/user-attachments/assets/eee061f0-42c0-4e47-8e48-6ad7c4b9a6c8" />
